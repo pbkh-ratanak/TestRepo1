@@ -1,10 +1,1 @@
-This is the text
-<<<<<<< HEAD
-sdf
-add some text
-=======
-
-Add som ete
-at the end
-
->>>>>>> 16b1d608ad7af30b35e9d1fa825d1f9f1824f7d1
+Update text
