@@ -10,4 +10,7 @@ at the end
 >>>>>>> 16b1d608ad7af30b35e9d1fa825d1f9f1824f7d1
 Add new text on 14/02
 
+Some more text after commit
+
+for c1<<>>
 
